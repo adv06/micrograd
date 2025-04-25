@@ -1,1 +1,1 @@
-# micrograd
+Made using Andrej Karpathy Tutorial
